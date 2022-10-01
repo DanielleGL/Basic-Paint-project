@@ -19,3 +19,7 @@ To save an image press 's'
 Note: if you have saved an image any other image save will be overwritten to
 stop this change the file name to some else. 
 The save file should be in the save folder as the program.
+
+You can also zoom in and out with the arrow keys(Up and Down).
+
+You can make the lines/points bigger with the arrows keys(Left and Right).
